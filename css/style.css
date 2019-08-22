@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: black;
+    text-align: left;
+    background-color: #fff;
+}
+
+.rose {
+    width: 30%;
+}
+
+.masthead {
+    height: 70vh;
+    background-image: url("../img/desk.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    margin-bottom: 30px;
+  }
+
+  .masthead p {
+      font-size: 40px;
+  }
+
+  .masthead h1 {
+    font-family: 'Beth Ellen', cursive;
+    font-size: 100px;    
+  }
+
+.img-circle {
+    width: 40%;
+    border-radius: 50%;
+}
+
+.portfolio img {
+    padding-bottom: 10px;
+}
